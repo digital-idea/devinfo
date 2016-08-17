@@ -15,7 +15,7 @@
 - 좀더 자세한 개발정보, 토론, 커피를 즐겨요.
 - 구글맵 : https://goo.gl/maps/TvhB5sgJ4wF2
 
-## 사용하고 있는 언어 & DB
+## 사용하고 있는 언어 & DB & 개발도구
 - Shell Script : 간단한 리눅스 명령어로 처리하는 업무에 활용합니다. 
 - [Python](http://www.python.org) : 많은 그래픽스툴에 내장되어 있습니다. 대부분 파이썬을 이용한 업무가 많습니다.
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & PySide : Python을 이용한 GUI 제작시 사용됩니다.
@@ -24,12 +24,9 @@
 - 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 사내 웹서비스 제작시 활용됩니다.
 - [MongoDB](https://www.mongodb.com) 
 - [MySQL](https://www.mysql.com)
-
-## 사용하고 있는 개발도구
-- 요구사항분석 & 대화
 - Git & [Gogs](https://gogs.io) : 사내 버젼관리를 위한 도구 입니다.
 - [Bitbucket](https://bitbucket.org/) : 외부업무를 지원하는 개발시 버젼관리 및 리포지터리 서버로 활용합니다.
 - [AWS](https://aws.amazon.com) : 외부 서비스를 지원할 때 인프라로 활용합니다. 개발 초기에는 1년간 프리티어를 활용하고 있습니다.
-
+![imagetag](images/imagetag.jpg)
 ## Partner
 - 
