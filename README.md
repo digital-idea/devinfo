@@ -30,4 +30,4 @@
 ![imagetag](images/imagetag.jpg)
 
 ## Partner
-- 
+- 작성예정 
