@@ -14,9 +14,9 @@
 
 ## 사용하고 있는 언어 & DB
 - Shell script : 간단한 리눅스 명령어로 처리하는 업무에 활용합니다. 
-- [Python](http://www.python.org) : 많은 그래픽스툴에 내장언어로 사용합니다. 대부분 파이썬을 이용한 업무가 많습니다.
+- [Python](http://www.python.org) : 많은 그래픽스툴에 내장되어 있습니다. 대부분 파이썬을 이용한 업무가 많습니다.
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & PySide : Python을 이용한 GUI 제작시 사용됩니다.
-- [Golang](http://www.golang.org) : 의존성이 없고, 튼튼한 서비스를 만들 때 사용합니다.
+- [Golang](http://www.golang.org) : 의존성이 없고, 튼튼하고 안정적인 서비스를 만들 때 사용합니다.
 - C++ : 속도이슈가 있고 그래픽스툴을 위한 플러그인을 만들 때 활용합니다.
 - 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 사내 웹서비스 제작시 활용됩니다.
 - [MongoDB](https://www.mongodb.com) 
