@@ -13,7 +13,7 @@
 - [Github](http://www.github.com)를 이용해서 마음맞는 사람들과 오픈소스 개발을 추천합니다.
 
 ## 사용하고 있는 언어 & DB
-- Shell script : 간단한 리눅스 명령어로 처리하는 업무에 활용합니다. 
+- Shell Script : 간단한 리눅스 명령어로 처리하는 업무에 활용합니다. 
 - [Python](http://www.python.org) : 많은 그래픽스툴에 내장되어 있습니다. 대부분 파이썬을 이용한 업무가 많습니다.
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & PySide : Python을 이용한 GUI 제작시 사용됩니다.
 - [Golang](http://www.golang.org) : 의존성이 없고, 튼튼하고 안정적인 서비스를 만들 때 사용합니다.
@@ -27,3 +27,6 @@
 - Git & [Gogs](https://gogs.io) : 사내 버젼관리를 위한 도구 입니다.
 - [Bitbucket](https://bitbucket.org/) : 외부업무를 지원하는 개발시 버젼관리, 리포지터리 서버로 활용합니다.
 - [AWS](https://aws.amazon.com) : 외부 서비스를 지원할 때 인프라로 활용합니다. 개발 초기에는 1년간 프리티어를 활용하고 있습니다.
+
+## Partner
+- 
