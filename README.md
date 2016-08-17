@@ -3,7 +3,7 @@
 - 그래픽스에 호기심 많은 개발자를 찾습니다.
 - 사내 많은 컴퓨터가 Linux([CentOS](https://www.centos.org))로 구성되어 있습니다. 리눅스 명령어에 익숙하면 유리합니다.
 - 영화, 에니메이션, 광고 작업을 서포트하기 위한 개발사항이 많습니다.
-- 뉴크, 마야, 후디니같은 툴을 다룰 수 있다면 아티스트와 대화가 편리합니다.
+- [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com)같은 툴을 다룰 수 있다면 아티스트와 대화가 편합니다.
 - 그래픽스 라이브러리(OpenGL, OpenCL ... )등을 활용하면 유리합니다.
 - 개인이 하고있는 개발 프로젝트 사이트, Github 사이트가 있다면 보내주세요.
 - 담당자 : 김한웅 / khw7096@gmail.com
