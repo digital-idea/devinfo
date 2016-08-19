@@ -22,7 +22,7 @@
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & PySide : Python을 이용한 GUI 제작시 사용됩니다.
 - [Golang](http://www.golang.org) : 의존성이 없고, 튼튼하고 안정적인 서비스를 만들 때 사용합니다.
 - C++ : 속도이슈가 있고 그래픽스툴을 위한 플러그인을 만들 때 활용합니다.
-- 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 사내 웹서비스 제작시 활용됩니다.
+- 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 웹서비스 제작시 활용됩니다.
 - [MongoDB](https://www.mongodb.com) 
 - [MySQL](https://www.mysql.com)
 - Git & [Gogs](https://gogs.io) : 사내 버젼관리를 위한 도구 입니다.
