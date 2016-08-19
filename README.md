@@ -30,3 +30,7 @@
 - [AWS](https://aws.amazon.com) : 외부 서비스를 지원할 때 인프라로 활용합니다. 개발 초기에는 1년간 프리티어를 활용하고 있습니다.
 ![imagetag](images/imagetag.jpg)
 
+
+## Partner
+- Bitcamp : http://bitjobedu.co.kr
+- Bitcamp Project PT : http://bitjobedu.co.kr/result/list?curPage=1
