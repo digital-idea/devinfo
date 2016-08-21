@@ -35,7 +35,3 @@
 
 ![imagetag](images/imagetag.jpg)
 
-
-## Partner
-- Bitcamp : http://bitjobedu.co.kr
-- Bitcamp Project PT : http://bitjobedu.co.kr/result/list?curPage=1
