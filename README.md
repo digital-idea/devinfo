@@ -25,7 +25,7 @@
 ## 사용하고 있는 언어 & DB & 개발도구
 - Shell Script : 간단한 리눅스 명령어로 처리하는 업무에 활용합니다.
 - [Python](http://www.python.org) : 많은 그래픽스툴에 내장되어 있습니다. 이 툴을 확장하는 형태의 업무가 많습니다.
-- [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & PySide : Python을 이용한 GUI 제작시 사용됩니다.
+- [PyQt](https://riverbankcomputing.com/software/pyqt/intro) & [PySide](https://wiki.qt.io/PySide) : Python을 이용한 GUI 제작시 사용됩니다.
 - [Golang](http://www.golang.org) : 의존성이 없고, 안정적인 서비스를 만들 때 사용합니다.
 - C++ : 빠른 속도가 필요하거나 그래픽스툴을 위한 플러그인을 만들 때 활용합니다.
 - 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 웹서비스 제작시 활용됩니다.
