@@ -2,7 +2,7 @@
 - 디지털아이디어의 개발환경을 공유하고, 원하는 인재를 찾기위해 제작된 문서입니다.
 - 그래픽스에 호기심 많은 개발자를 찾습니다.
 - 영화, 에니메이션, 광고 작업을 위한 개발사항을 다루게 됩니다.
-- [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com)같은 툴을 다룰 수 있다면 아티스트와 대화가 편합니다.
+- [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com), [RV](http://www.tweaksoftware.com/products/rv)같은 툴을 다룰 수 있다면 아티스트와 대화가 편합니다.
 - 위 툴의 기능을 확장하는 형태의 개발이 많기 때문입니다.
 - 또한, 사내 많은 컴퓨터가 Linux([CentOS](https://www.centos.org))로 구성되어 있습니다. 리눅스 환경 & 명령어에 익숙하면 유리합니다.
 - 그래픽스 라이브러리(OpenGL, OpenCL ... ), 수학, 물리이론을 활용한 경험이 있다면 유리합니다.
