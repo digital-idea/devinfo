@@ -1,4 +1,4 @@
-![](./images/recession.jpg | width=100)
+![recession](/images/recession.jpg)
 
 # 디지털아이디어 파이프라인 개발팀 정보
 - 디지털아이디어의 개발환경을 공유하고, 원하는 인재를 찾기위해 제작된 문서입니다.
