@@ -3,8 +3,7 @@
 # 디지털아이디어 파이프라인 개발팀 정보
 - 디지털아이디어의 개발환경을 공유하고, 원하는 인재를 찾기위해 제작된 문서입니다.
 - 영상, 그래픽스에 호기심 많은 개발자를 찾습니다.
-- [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com), [RV](http://www.tweaksoftware.com/products/rv)
-- [카타나](https://www.thefoundry.co.uk/products/katana/), [렌더맨](https://renderman.pixar.com), [Vray](https://www.chaosgroup.com)
+- [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com), [RV](http://www.tweaksoftware.com/products/rv), [카타나](https://www.thefoundry.co.uk/products/katana/), [렌더맨](https://renderman.pixar.com), [Vray](https://www.chaosgroup.com)
 - 위에 적힌 툴을 다룰 수 있다면 아티스트와 대화하기에 편안합니다.
 - 열거한 툴의 기능을 확장하는 형태의 개발이 많기 때문입니다.
 - 또한, 사내 많은 컴퓨터가 Linux([CentOS](https://www.centos.org))로 구성되어 있습니다. 리눅스 환경 & 명령어에 익숙하면 유리합니다.
