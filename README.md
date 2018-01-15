@@ -1,4 +1,3 @@
-<img src="images/recession.jpg" width=500>
 
 # 디지털아이디어 파이프라인 개발팀 정보
 - 디지털아이디어의 개발환경을 공유하고, 원하는 인재를 찾기위해 제작된 문서입니다.
@@ -11,7 +10,7 @@
 - 개발자 혼자서 많은 분야를 다 알아야 하는것은 아닙니다. 자신이 가장 잘하는 일을 어필해 주세요.
 - 개인 또는 친구들과 진행하는 프로젝트 사이트, 영상, Github 사이트가 있다면 언제든지 보내주세요.
 - 이력서를 열람하는 관계자의 OS환경이 각각 다릅니다. 자료첨부시 pptx같은 특정 어플리케이션 데이터보다는 pdf, jpg, mp4같은 범용 데이터를 보내주세요.
-- 담당자 : 김한웅 / khw7096@gmail.com
+- 담당자 : 고재혁 센터장(ekolighting@gmail.com), 이상진(nanjini80@gmail.com), 김한웅(khw7096@gmail.com)
 
 ## 개발문화
 - 매주 화,목요일 오전에 자유롭게 토론, 코드 리뷰를 하고 있습니다.
@@ -34,8 +33,4 @@
 - [MongoDB](https://www.mongodb.com) : 사내에서 NoSQL이 필요할 때DB로 활용하고 있습니다.
 - [MySQL](https://www.mysql.com) : 사내에서 DB로 활용하고 있습니다.
 - [Git](https://git-scm.com) & [Gogs](https://gogs.io) : 사내 버젼관리 및 리뷰 도구 입니다.
-- [Bitbucket](https://bitbucket.org/) : 외부 서비스 지원시 버젼관리 및 리포지터리 서버로 활용합니다.
-- [AWS](https://aws.amazon.com) : 외부 서비스를 지원할 때 인프라로 활용합니다.
-
-![imagetag](images/imagetag.jpg)
-
+- [Github](https://github.com/) : 외부 서비스 지원시 버전관리 및 리포지터리 서버로 활용합니다.
