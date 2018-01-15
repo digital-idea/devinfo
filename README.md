@@ -32,5 +32,5 @@
 - 웹언어(HTML5,CSS3,Javascript) : 작업 개선을 위한 웹서비스 제작시 활용됩니다.
 - [MongoDB](https://www.mongodb.com) : 사내에서 NoSQL이 필요할 때DB로 활용하고 있습니다.
 - [MySQL](https://www.mysql.com) : 사내에서 DB로 활용하고 있습니다.
-- [Git](https://git-scm.com) & [Gogs](https://gogs.io) : 사내 버젼관리 및 리뷰 도구 입니다.
+- [Git](https://git-scm.com) & [Gogs](https://gogs.io) : 사내 버전관리 및 리뷰 도구 입니다.
 - [Github](https://github.com/) : 외부 서비스 지원시 버전관리 및 리포지터리 서버로 활용합니다.
