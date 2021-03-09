@@ -5,7 +5,8 @@
 - [뉴크](https://www.thefoundry.co.uk/products/nuke/), [마야](http://www.autodesk.co.kr/products/maya/overview), [후디니](https://www.sidefx.com), [RV](http://www.tweaksoftware.com/products/rv), [카타나](https://www.thefoundry.co.uk/products/katana/), [렌더맨](https://renderman.pixar.com), [Vray](https://www.chaosgroup.com)
 - 위에 적힌 툴을 다룰 수 있다면 아티스트와 대화하기에 편안합니다.
 - 열거한 툴의 기능을 확장하는 형태의 개발이 많기 때문입니다.
-- 또한, 사내 많은 컴퓨터가 Linux([CentOS](https://www.centos.org))로 구성되어 있습니다. 리눅스 환경 & 명령어에 익숙하면 유리합니다.
+- 사내 많은 컴퓨터가 Linux([CentOS](https://www.centos.org))로 구성되어 있습니다. 리눅스 환경 & 명령어에 익숙하면 유리합니다.
+- Window 10 에서는 PowerShell, python3.7, javascript를 사용하여 개발하고 있습니다. (adobe를 위한 툴)
 - 그래픽스 라이브러리(OpenGL, OpenCL ... ), 수학, 물리이론을 활용한 경험이 있다면 유리합니다.
 - 개발자 혼자서 많은 분야를 다 알아야 하는것은 아닙니다. 자신이 가장 잘하는 일을 어필해 주세요.
 - 개인 또는 친구들과 진행하는 프로젝트 사이트, 영상, Github 사이트가 있다면 언제든지 보내주세요.
@@ -37,3 +38,4 @@
 - [Github](https://github.com/) : 외부 서비스 지원시 버전관리 및 리포지터리 서버로 활용합니다.
 - [Gitlab](https://https://about.gitlab.com): GOGS의 트랜잭션 문제로 변경된 사내 버전관리 및 리뷰 도구 입니다.
 - [RocketChat](https://rocket.chat/) : 오픈 소스 채팅입니다. 사내에서 사용 할 수 있도록 수정 및 웹훅을 이용하여 개발 내용을 공유하고 있습니다.
+- [VScode](https://code.visualstudio.com/) : MS의 코드 에디터입니다. Linux, Mac, Win 설치하여 사용하고 있습니다.
